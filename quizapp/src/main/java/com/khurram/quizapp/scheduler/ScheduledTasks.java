@@ -1,4 +1,4 @@
-package com.khurram.quizapp;
+package com.khurram.quizapp.scheduler;
 
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
